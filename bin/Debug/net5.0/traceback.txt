@@ -1,0 +1,1002 @@
+﻿DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  1 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  2 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  3 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  4 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  5 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  6 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  7 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  8 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  9 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  10 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  11 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  12 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  13 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  14 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  15 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  16 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  17 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  18 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  19 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  20 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  21 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  22 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  23 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  4 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  5 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  6 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  7 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  8 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  9 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  10 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  11 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  12 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  13 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  1 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  2 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  3 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  4 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  5 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  6 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  7 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  8 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  9 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  10 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  11 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  12 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  13 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  14 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  15 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  16 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  17 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  18 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  19 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  20 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  21 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  22 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  23 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  4 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  5 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  6 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  7 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  8 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  9 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  10 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  11 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  12 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  1 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  2 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  3 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  4 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  5 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  6 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  7 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  8 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  9 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  10 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  11 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  12 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  13 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  14 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  15 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  16 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  17 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  1 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  2 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  3 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  4 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  5 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  6 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  7 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  8 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  9 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  10 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  11 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  12 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  13 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  1 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  2 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  3 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  4 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  5 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  6 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  7 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  8 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  9 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  1 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  2 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  3 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  4 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  5 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  6 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  7 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  8 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  9 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  10 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  11 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  12 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  13 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  14 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  15 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  16 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  17 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  18 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  19 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  20 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  21 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  22 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  23 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  4 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  5 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  6 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  7 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  8 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  9 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  10 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  11 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  12 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  13 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  1 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  2 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  3 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  4 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  5 
+==============
+DRON - 5928
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  6 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  7 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  8 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 
+ IR  -  9 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  10 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  11 
+==============
+DRON - 5928
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  12 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  13 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  14 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 
+DRFO - 25267
+ IR  -  15 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  16 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  17 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  18 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  19 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  20 
+==============
+DRON - 234
+DRTW - 0
+DRTH - 2886234
+DRFO - 25267
+ IR  -  21 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  22 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  23 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  4 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  5 
+==============
+DRON - 234
+DRTW - 13456
+DRTH - 2886234
+DRFO - 25267
+ IR  -  6 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  7 
+==============
+DRON - 234
+DRTW - 918
+DRTH - 2886234
+DRFO - 25267
+ IR  -  8 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  1 
+==============
+DRON - 
+DRTW - 
+DRTH - 
+DRFO - 
+ IR  -  2 
+==============

@@ -1,0 +1,16 @@
+D:\Desktop\VM\NecroVM\obj\Debug\net5.0\NecroVM.csproj.AssemblyReference.cache
+D:\Desktop\VM\NecroVM\obj\Debug\net5.0\NecroVM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\VM\NecroVM\obj\Debug\net5.0\NecroVM.AssemblyInfoInputs.cache
+D:\Desktop\VM\NecroVM\obj\Debug\net5.0\NecroVM.AssemblyInfo.cs
+D:\Desktop\VM\NecroVM\obj\Debug\net5.0\NecroVM.csproj.CoreCompileInputs.cache
+D:\Desktop\VM\NecroVM\bin\Debug\net5.0\NecroVM.exe
+D:\Desktop\VM\NecroVM\bin\Debug\net5.0\NecroVM.deps.json
+D:\Desktop\VM\NecroVM\bin\Debug\net5.0\NecroVM.runtimeconfig.json
+D:\Desktop\VM\NecroVM\bin\Debug\net5.0\NecroVM.runtimeconfig.dev.json
+D:\Desktop\VM\NecroVM\bin\Debug\net5.0\NecroVM.dll
+D:\Desktop\VM\NecroVM\bin\Debug\net5.0\ref\NecroVM.dll
+D:\Desktop\VM\NecroVM\bin\Debug\net5.0\NecroVM.pdb
+D:\Desktop\VM\NecroVM\obj\Debug\net5.0\NecroVM.dll
+D:\Desktop\VM\NecroVM\obj\Debug\net5.0\ref\NecroVM.dll
+D:\Desktop\VM\NecroVM\obj\Debug\net5.0\NecroVM.pdb
+D:\Desktop\VM\NecroVM\obj\Debug\net5.0\NecroVM.genruntimeconfig.cache
